@@ -1,7 +1,7 @@
-<h1>Tur Sitesi Projesi</h1>
+<h1>Tour Site Project</h1>
 
-HTML ve CSS kullanarak bir tur sitesinin ön yüzü geliştirildi. Bu projede responsive tasarım uygulandı.
+Developed the frontend of a tour site using HTML and CSS. Responsive design was applied in this project.
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Screenshot</h2>
 
 ![](/img/ekran.gif)
